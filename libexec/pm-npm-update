@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+#
+# Summary:
+#    Update all outdated packages
+#
+#    npm has not update only global outdated packages
+#
+# Usage: pm-npm update
+#
+
+npm install -g npm 
+npm update -g

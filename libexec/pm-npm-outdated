@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+#
+# Summary: Show out of date installed packages
+#
+# Usage: pm-npm outdated
+#
+
+npm -g outdated ;
