@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+#
+# Summary: Dump all installed packages into console as json file
+#
+# Usage: pm-npm dump
+
+npm -g list --depth=0 --json=true
