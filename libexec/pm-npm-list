@@ -4,5 +4,5 @@
 #
 # Usage: pm-npm list
 
-ls /usr/local/lib/node_modules/
+#ls /usr/local/lib/node_modules/
 npm -g list --depth=0
